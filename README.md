@@ -70,3 +70,4 @@ $ npx sst deploy
 ---
 
 Join the SST community over on [Discord](https://discord.gg/sst) and follow us on [Twitter](https://twitter.com/SST_dev).
+# note
