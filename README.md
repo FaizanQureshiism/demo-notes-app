@@ -1,3 +1,6 @@
+Check it out https://drn84401ozoxf.cloudfront.net/login 
+
+
 # SST Demo Notes App [![Seed Status](https://api.seed.run/serverless-stack/demo-notes-app/stages/prod/build_badge)](https://console.seed.run/serverless-stack/demo-notes-app)
 
 The [Serverless Stack Guide](https://sst.dev/guide) is a comprehensive open source tutorial for building and deploying full-stack apps using serverless and React on AWS.
